@@ -1,0 +1,16 @@
+{
+"companyName": "dastasoft",
+"productName": "CubeRunner",
+"productVersion": "0.1",
+"dataUrl": "cuberunner.data.unityweb",
+"wasmCodeUrl": "cuberunner.wasm.code.unityweb",
+"wasmFrameworkUrl": "cuberunner.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
